@@ -1,6 +1,9 @@
  
  body {
 	padding-top: 90px;
+	background-image: url("../images/banner.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
  }
 
  header {
