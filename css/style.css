@@ -9,9 +9,13 @@
  header {
 	text-align: center;
  }
-
+ 
  .navbar {
-	height: 90px;
- }
+   background-color: transparent;
+   background: transparent;
+   height: 90px;
+}
+
+.navbar li { color: #000 } 
 
  
